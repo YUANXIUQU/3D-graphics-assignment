@@ -1,0 +1,20 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 17.12.2024 09:49:20
+
+newmtl fuel_can
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.9000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5200
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd C:\Users\hunte\OneDrive\Desktop\fuel_can\textures\fuel_can_Albedo.png
+	map_Pr C:\Users\hunte\OneDrive\Desktop\fuel_can\textures\fuel_can_Roughness.png
+	bump C:\Users\hunte\OneDrive\Desktop\fuel_can\textures\fuel_can_Normal.png
+	map_bump C:\Users\hunte\OneDrive\Desktop\fuel_can\textures\fuel_can_Normal.png
